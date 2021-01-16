@@ -13,6 +13,8 @@ name = ""
 # load existing web service
 service = Webservice(name=name, workspace=ws)
 
+# Enabled Authenticaton
+
 service.update(enable_app_insights=True)
 
 logs = service.get_logs()
