@@ -15,6 +15,10 @@ Authentication is crucial for the continuous flow of operations. Continuous Inte
 ###### Token based
 In this project I used Azure Container Instances service which is a Key-based authentication.
 
+### Registering Dataset
+
+![ds import](https://user-images.githubusercontent.com/65784601/105210144-f4574680-5b4a-11eb-94d1-4474c3655480.png)
+
 #### 2. Automated ML Experiment
 #### 3. Deploy the best model
 #### 4. Enable logging
