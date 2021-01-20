@@ -46,7 +46,11 @@ In this project I used Azure Container Instances service which is a Key-based au
 
 ![model-deploy](https://user-images.githubusercontent.com/65784601/105210435-531cc000-5b4b-11eb-93db-0196a7877740.png)
 
+### Updating and running logs.py
+![log](https://user-images.githubusercontent.com/65784601/105213453-0509bb80-5b4f-11eb-83aa-8cc1ba0a3fda.png)
 
+### Application insights enabled and accessed from the endpoints
+![app-insight](https://user-images.githubusercontent.com/65784601/105213472-0935d900-5b4f-11eb-8ef3-c759e47df89f.png)
 
 #### 2. Automated ML Experiment
 #### 3. Deploy the best model
