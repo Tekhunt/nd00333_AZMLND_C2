@@ -62,6 +62,21 @@ In this project I used Azure Container Instances service which is a Key-based au
 ![endpointpy](https://user-images.githubusercontent.com/65784601/105215202-4602cf80-5b51-11eb-8817-5d87532dd441.png)
 
 
+### Step 7.
+
+### Create, Publish and Consume a Pipeline
+
+#### Completed Pipeline run in notebook
+
+![jupter notebook](https://user-images.githubusercontent.com/65784601/105216694-308ea500-5b53-11eb-82a2-606003a3aab6.png)
+
+#### Pipeline run completed in Azure Studio
+![AzureStudio1](https://user-images.githubusercontent.com/65784601/105216775-4dc37380-5b53-11eb-8e86-b207a3b0b7e9.png)
+
+#### View in Azure Studio
+![AzureStudio](https://user-images.githubusercontent.com/65784601/105216777-4dc37380-5b53-11eb-8529-fa6298fcaacd.png)
+
+
 #### 2. Automated ML Experiment
 #### 3. Deploy the best model
 #### 4. Enable logging
