@@ -19,6 +19,35 @@ In this project I used Azure Container Instances service which is a Key-based au
 
 ![ds import](https://user-images.githubusercontent.com/65784601/105210144-f4574680-5b4a-11eb-94d1-4474c3655480.png)
 
+
+
+
+### Used STANDARD_DS12_V2 Machine size
+
+![running compute](https://user-images.githubusercontent.com/65784601/105210172-ff11db80-5b4a-11eb-896a-a1f038182094.png)
+
+
+
+### Best model after completion is VotingEnsemble
+
+![completed exp](https://user-images.githubusercontent.com/65784601/105210389-3ed8c300-5b4b-11eb-81ed-ffb15099c5f4.png)
+
+
+
+## Deploy Best Model
+
+### Used Azure container Instance and enabld authentication
+
+![model setup](https://user-images.githubusercontent.com/65784601/105210425-4ef0a280-5b4b-11eb-9cf4-716b8856ba7c.png)
+
+
+
+### Model Deployed
+
+![model-deploy](https://user-images.githubusercontent.com/65784601/105210435-531cc000-5b4b-11eb-93db-0196a7877740.png)
+
+
+
 #### 2. Automated ML Experiment
 #### 3. Deploy the best model
 #### 4. Enable logging
