@@ -64,7 +64,7 @@ In this project I used Azure Container Instances service which is a Key-based au
 
 ### Step 7.
 
-### Create, Publish and Consume a Pipeline
+### Create, Publish and Consume a Pipeline in python SDK. Ran the cells in the notebook after downloading the config.json file and keeping in smae dirrectory as the notebook.
 
 #### Completed Pipeline run in notebook
 
@@ -75,8 +75,13 @@ In this project I used Azure Container Instances service which is a Key-based au
 
 #### View in Azure Studio
 ![AzureStudio](https://user-images.githubusercontent.com/65784601/105216777-4dc37380-5b53-11eb-8529-fa6298fcaacd.png)
+#### Published Pipeline showing REST endpoints
+![published pipeline](https://user-images.githubusercontent.com/65784601/105218551-94b26880-5b55-11eb-8e92-48a0faf61e7f.png)
 
 
+### Standout Suggestion
+
+Enabling Deep Learning expecially when the data is somewhat large.
 #### 2. Automated ML Experiment
 #### 3. Deploy the best model
 #### 4. Enable logging
